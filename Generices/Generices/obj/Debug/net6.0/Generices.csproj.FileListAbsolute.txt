@@ -1,0 +1,15 @@
+F:\GenericMethod\Generices\Generices\bin\Debug\net6.0\Generices.exe
+F:\GenericMethod\Generices\Generices\bin\Debug\net6.0\Generices.deps.json
+F:\GenericMethod\Generices\Generices\bin\Debug\net6.0\Generices.runtimeconfig.json
+F:\GenericMethod\Generices\Generices\bin\Debug\net6.0\Generices.dll
+F:\GenericMethod\Generices\Generices\bin\Debug\net6.0\Generices.pdb
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.csproj.AssemblyReference.cache
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.GeneratedMSBuildEditorConfig.editorconfig
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.AssemblyInfoInputs.cache
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.AssemblyInfo.cs
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.csproj.CoreCompileInputs.cache
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.dll
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\refint\Generices.dll
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.pdb
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\Generices.genruntimeconfig.cache
+F:\GenericMethod\Generices\Generices\obj\Debug\net6.0\ref\Generices.dll
